@@ -97,10 +97,10 @@ http://localhost:8000/index.html
 
 ## **Notes**
 
-- Ensure **master.m3u8** points to the correct variant playlists
-- Variant playlists must reference the correct `.ts` segment files
-- Keep all HLS files in the same folder (`videos/`) or adjust paths accordingly
-- For multiple short videos, you can create separate folders and generate playlists per video
+- Ensure **master.m3u8** points to the correct variant playlists.
+- Variant playlists must reference the correct `.ts` segment files.
+- Keep all HLS files in the same folder (`videos/`) or adjust paths accordingly.
+- For multiple short videos, you can create separate folders and generate playlists per video.
 
 ---
 
