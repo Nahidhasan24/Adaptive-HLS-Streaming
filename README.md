@@ -35,7 +35,7 @@ Project/
 
 ### 1. Generate HLS from video
 
-Use FFmpeg (or the provided Python script) to create HLS playlists with multiple resolutions:
+Use FFmpeg (or the provided Python scripts) to create HLS playlists with multiple resolutions:
 
 ```bash
 python adaptive_hls_windows_fixed.py input.mp4 ./videos
